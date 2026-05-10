@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   const photos = [
     { src: "/maa1.jpeg", caption: "Our beautiful Maa 🌸", alt: "Maa with roses" },
-    { src: "/family.jpeg", caption: "Us three — always 💫", alt: "Family selfie" },
+    { src: "/family.jpeg", caption: "Us four — always 💫", alt: "Family selfie" },
     { src: "/maa_me.jpeg", caption: "My favourite person 🤍", alt: "Maa and me" },
   ];
 
