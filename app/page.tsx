@@ -31,17 +31,17 @@ export default function Home() {
         <div className="letter-card">
           <span className="letter-quote">&ldquo;</span>
           <p className="letter-body">
-            Maa, you have done so much for us — <strong>me, Nikku, and Ridhi Bhaiya</strong>. 
+            Maa, you have done so much for us <strong>me, Nikku, and Ridhi Bhaiya</strong>. 
             You are the most selfless person I know. I know sometimes it gets frustrating, 
-            and the weight of it all can feel too heavy — but you carry it with a grace that leaves us in awe.
+            and the weight of it all can feel too heavy but you carry it with a grace that leaves us in awe.
           </p>
           <p className="letter-body mt">
-            You have shown me what it means to be <strong>responsible and accountable</strong> — 
+            You have shown me what it means to be <strong>responsible and accountable</strong>  
             not through lectures, but through the way you live every single day. And Maa, your cooking? 
             Honestly, nothing in this world comes close. Every meal is love on a plate. 🍽️
           </p>
           <p className="letter-body mt">
-            I wish — more than anything — that I could grow up to be as <strong>resilient as you</strong>. 
+            I wish  more than anything  that I could grow up to be as <strong>resilient as you</strong>. 
             You bend but you never break. You give without counting. You love without condition. 
             That is your superpower, and it is the most beautiful thing I have ever witnessed.
           </p>
@@ -65,7 +65,7 @@ export default function Home() {
 
       <footer className="site-footer">
         <div className="flower-row" aria-hidden="true">🌸 🌷 🌼 🌺 🌸</div>
-        <p className="footer-text">Happy Mother&apos;s Day, Maa — today, tomorrow, forever. 🩷</p>
+        <p className="footer-text">Happy Mother&apos;s Day, Maa  today, tomorrow, forever. 🩷</p>
       </footer>
     </main>
   );
